@@ -17,9 +17,9 @@ Link to project: <a target="_blank" href="https://react-modern-vision.netlify.ap
 
 <img width="1440" alt="Screen Shot 2022-11-01 at 2 41 22 PM" src="https://user-images.githubusercontent.com/101936420/199314844-0430a7bf-49bb-4bb2-b4ab-b8a551b0462c.png">
 
-<img width="1440" alt="Screen Shot 2022-11-01 at 2 41 44 PM" src="https://user-images.githubusercontent.com/101936420/199314862-3a68758a-f0ea-4a8f-9e65-82497d30e41c.png">
-
 <img width="1440" alt="Screen Shot 2022-11-01 at 2 42 21 PM" src="https://user-images.githubusercontent.com/101936420/199314867-2a667b6e-6823-4c8f-b03c-61dea6e4a73b.png">
+
+<img width="1440" alt="Screen Shot 2022-11-01 at 2 41 44 PM" src="https://user-images.githubusercontent.com/101936420/199314862-3a68758a-f0ea-4a8f-9e65-82497d30e41c.png">
 
 ## Design
 This design concept is inspired by the high fashion catalog aesthetic, so I decided to design a clean and spacious style layout with dynamic typographic, in relation to the catalog style photography to embody a modern art gallery look and feel. All art pieces are made by yours truly or in collaboration with another artist. I was intentional about not using a template for this project. Graphic design work is done by scratch.
