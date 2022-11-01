@@ -1,25 +1,29 @@
 # React Modern Vision
-React Application - Front end
+React Application - Front end application
 
 The Artwear Catalog is an art / fashion exhibition for one of a kind, hand painted, art to wear pieces. It showcases the co-creative talents of models, photographers, designers, and artists in the creative-professional community in Philadelphia, and has a custom art to wear interface that enables the user to create their own art to wear.
 
-JavaScript | React Router | CSS 3 | Graphic Design | Graphic Art | Photoshop CC
+JavaScript | Graphic Design | Graphic Art | Photoshop CC
 
 Link to project: <a target="_blank" href="https://react-modern-vision.netlify.app/">live demo</a>
 
-<img width="1440" alt="Screen Shot 2022-11-01 at 2 40 00 PM" src="https://user-images.githubusercontent.com/101936420/199314755-655a7b15-87ce-422c-9587-369c650d6375.png">
+<img width="1438" alt="Screen Shot 2022-06-24 at 6 58 03 PM" src="https://user-images.githubusercontent.com/101936420/175730821-16ea1e6f-03aa-481b-9aa2-27be42590263.png">
 
-<img width="1440" alt="Screen Shot 2022-11-01 at 2 40 13 PM" src="https://user-images.githubusercontent.com/101936420/199314795-44abb43f-af06-4c26-9770-34732ab689c4.png">
+<img width="1439" alt="Screen Shot 2022-06-24 at 6 58 35 PM" src="https://user-images.githubusercontent.com/101936420/175731577-1e94eecd-2476-4003-9785-e074cb3d117f.png">
 
-<img width="1440" alt="Screen Shot 2022-11-01 at 2 40 30 PM" src="https://user-images.githubusercontent.com/101936420/199314812-306cc8a7-c7d0-47c2-bc09-7e163ae833d1.png">
+<img width="1439" alt="Screen Shot 2022-06-24 at 7 07 22 PM" src="https://user-images.githubusercontent.com/101936420/175732605-c28c3451-6170-443e-a4a6-b5bb40153916.png">
 
-<img width="1440" alt="Screen Shot 2022-11-01 at 2 41 09 PM" src="https://user-images.githubusercontent.com/101936420/199314833-a9abe1c5-2a31-4cc2-9d39-9f3ad0acddc7.png">
+<img width="1439" alt="Screen Shot 2022-06-24 at 7 06 52 PM" src="https://user-images.githubusercontent.com/101936420/175733162-411b899d-cc68-48b1-96fa-7d99f690cf36.png">
 
-<img width="1440" alt="Screen Shot 2022-11-01 at 2 41 22 PM" src="https://user-images.githubusercontent.com/101936420/199314844-0430a7bf-49bb-4bb2-b4ab-b8a551b0462c.png">
+<img width="1439" alt="Screen Shot 2022-06-24 at 6 59 22 PM" src="https://user-images.githubusercontent.com/101936420/175733966-991d39c3-ba0c-40a6-8a86-eca6ae8da348.png">
 
-<img width="1440" alt="Screen Shot 2022-11-01 at 2 41 44 PM" src="https://user-images.githubusercontent.com/101936420/199314862-3a68758a-f0ea-4a8f-9e65-82497d30e41c.png">
+<img width="1439" alt="Screen Shot 2022-06-24 at 7 01 51 PM" src="https://user-images.githubusercontent.com/101936420/175734503-f4ad7522-8f8c-4130-abe0-031d166d46e5.png">
 
-<img width="1440" alt="Screen Shot 2022-11-01 at 2 42 21 PM" src="https://user-images.githubusercontent.com/101936420/199314867-2a667b6e-6823-4c8f-b03c-61dea6e4a73b.png">
+<img width="1437" alt="Screen Shot 2022-06-24 at 6 59 39 PM" src="https://user-images.githubusercontent.com/101936420/175735017-7429726b-ae86-4711-b44d-38da49a0629d.png">
+
+<img width="1437" alt="Screen Shot 2022-06-24 at 7 00 02 PM" src="https://user-images.githubusercontent.com/101936420/175736870-163ad5e1-cf46-4b5e-b82c-d890a2e98fcc.png">
+
+<img width="1439" alt="Screen Shot 2022-06-24 at 7 00 27 PM" src="https://user-images.githubusercontent.com/101936420/175735263-6b57a897-6d07-4dc1-9bdc-e38cd26c5de1.png">
 
 ## Design
 This design concept is inspired by the high fashion catalog aesthetic, so I decided to design a clean and spacious style layout with dynamic typographic, in relation to the catalog style photography to embody a modern art gallery look and feel. All art pieces are made by yours truly or in collaboration with another artist. I was intentional about not using a template for this project. Graphic design work is done by scratch.
@@ -54,4 +58,3 @@ Inquire about software engineer opportunities? <br>
 <br>
 Visit <a target="_blank" href="https://henrylee.studio/">henrylee.studio</a>
 </section>
-
