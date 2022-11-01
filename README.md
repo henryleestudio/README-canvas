@@ -1,11 +1,11 @@
-# The Artwear Catalog
-Resilient Coders Demo Day - Full stack application
+# React Modern Vision
+React Application - Front end application
 
 The Artwear Catalog is an art / fashion exhibition for one of a kind, hand painted, art to wear pieces. It showcases the co-creative talents of models, photographers, designers, and artists in the creative-professional community in Philadelphia, and has a custom art to wear interface that enables the user to create their own art to wear.
 
-JavaScript | Node.js | Express | Mongodb | Bootstrap | Graphic Design | Graphic Art | Photoshop CC | Illustrator CC | Indesign CC
+JavaScript | Graphic Design | Graphic Art | Photoshop CC
 
-Link to project: <a target="_blank" href="https://the-artwear-catalog-demo.herokuapp.com/">live demo</a>
+Link to project: <a target="_blank" href="https://react-modern-vision.netlify.app/">live demo</a>
 
 <img width="1438" alt="Screen Shot 2022-06-24 at 6 58 03 PM" src="https://user-images.githubusercontent.com/101936420/175730821-16ea1e6f-03aa-481b-9aa2-27be42590263.png">
 
