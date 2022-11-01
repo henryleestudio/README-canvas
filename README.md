@@ -3,7 +3,7 @@ React Application - Front end
 
 The Artwear Catalog is an art / fashion exhibition for one of a kind, hand painted, art to wear pieces. It showcases the co-creative talents of models, photographers, designers, and artists in the creative-professional community in Philadelphia, and has a custom art to wear interface that enables the user to create their own art to wear.
 
-JavaScript | React Router | CSS 3 | Graphic Design | Graphic Art | Photoshop CC
+JavaScript | React Router Dom | Styled Components | CSS3 | Graphic Design | Adobe Creative Cloud | Photoshop CC
 
 Link to project: <a target="_blank" href="https://react-modern-vision.netlify.app/">live demo</a>
 
