@@ -7,19 +7,13 @@ JavaScript | React Router Dom | Styled Components | CSS3 | Graphic Design | Adob
 
 Link to project: <a target="_blank" href="https://react-modern-vision.netlify.app/">live demo</a>
 
-<img width="1440" alt="Screen Shot 2022-11-01 at 2 40 00 PM" src="https://user-images.githubusercontent.com/101936420/199314755-655a7b15-87ce-422c-9587-369c650d6375.png">
-
-<img width="1440" alt="Screen Shot 2022-11-01 at 2 40 13 PM" src="https://user-images.githubusercontent.com/101936420/199314795-44abb43f-af06-4c26-9770-34732ab689c4.png">
-
-<img width="1440" alt="Screen Shot 2022-11-01 at 2 40 30 PM" src="https://user-images.githubusercontent.com/101936420/199314812-306cc8a7-c7d0-47c2-bc09-7e163ae833d1.png">
-
-<img width="1440" alt="Screen Shot 2022-11-01 at 2 41 09 PM" src="https://user-images.githubusercontent.com/101936420/199314833-a9abe1c5-2a31-4cc2-9d39-9f3ad0acddc7.png">
-
-<img width="1440" alt="Screen Shot 2022-11-01 at 2 41 22 PM" src="https://user-images.githubusercontent.com/101936420/199314844-0430a7bf-49bb-4bb2-b4ab-b8a551b0462c.png">
-
-<img width="1440" alt="Screen Shot 2022-11-01 at 2 42 21 PM" src="https://user-images.githubusercontent.com/101936420/199314867-2a667b6e-6823-4c8f-b03c-61dea6e4a73b.png">
-
-<img width="1440" alt="Screen Shot 2022-11-01 at 2 41 44 PM" src="https://user-images.githubusercontent.com/101936420/199314862-3a68758a-f0ea-4a8f-9e65-82497d30e41c.png">
+<img width="1440" alt="responsive-clean-7" src="https://user-images.githubusercontent.com/101936420/199354426-08334b44-d2c3-427f-9c8b-5c5329bfe29b.png">
+<img width="1440" alt="responsive-clean-6" src="https://user-images.githubusercontent.com/101936420/199354489-9627fa44-a8ec-4537-9056-6ce3213676ee.png">
+<img width="1440" alt="responsive-clean-5" src="https://user-images.githubusercontent.com/101936420/199354530-c2d3122f-a7d3-473c-a796-53e4d8cda118.png">
+<img width="1440" alt="responsive-clean-4" src="https://user-images.githubusercontent.com/101936420/199354575-864f091d-2680-4f56-8ba6-3875779ab120.png">
+<img width="1440" alt="responsive-clean-3" src="https://user-images.githubusercontent.com/101936420/199354578-0a8df443-dcf0-4df7-92fb-a9a286b4b67c.png">
+<img width="1440" alt="responsive-clean-2" src="https://user-images.githubusercontent.com/101936420/199354615-dabb5fc9-0749-41bf-bddf-107a0e9a5ed3.png">
+<img width="1440" alt="responsive-clean-1" src="https://user-images.githubusercontent.com/101936420/199354648-de2679b3-409a-461f-953d-41b812171e41.png">
 
 ## Design
 This design concept is inspired by the high fashion catalog aesthetic, so I decided to design a clean and spacious style layout with dynamic typographic, in relation to the catalog style photography to embody a modern art gallery look and feel. All art pieces are made by yours truly or in collaboration with another artist. I was intentional about not using a template for this project. Graphic design work is done by scratch.
